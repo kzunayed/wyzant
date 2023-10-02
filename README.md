@@ -1,2 +1,3 @@
-# wyzant
-Code created during my lessons with students
+# Wyzant
+
+This repo consists of code created during my lessons with my students.
